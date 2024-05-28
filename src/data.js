@@ -1,5 +1,4 @@
 import tour1 from './images/tour-1.jpeg';
-import tour2 from './images/tour-2.jpeg';
 import tour3 from './images/tour-3.jpeg';
 import tour4 from './images/tour-4.jpeg';
 
@@ -35,7 +34,7 @@ export const tours = [
     },
     {
         id: 2,
-        image: tour2,
+        image: tour4,
         date: 'august 26th, 2020',
         title: 'Tibet Adventure',
         info: ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
